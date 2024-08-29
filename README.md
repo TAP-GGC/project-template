@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logo/Transparent%20Version.png" height="350" />
+  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logo/Transparent%20Version.png" width="" height="350" />
   <h1 align="center">Project Title</h1>
   <p align="center">Short Descriptor (Example: A Game that Emphasizes the Importance of Programming Statements)</p>
 </p>
@@ -55,9 +55,9 @@ You can select from a range of audiences or a single auidience. Examples:
 * Dr. Ferga Licious
 
 ## :rocket: Team Photo
-<img src = "Media/Team Photo/STaRS Symposium.png" width="400" height="200">
+<img src = "media/team photo/Team Photo.JPG" width="" height="300">
 
-> (From left to right: Anh Tang, Julissa Valdez-Ramos, Jean Makita Mbama.)
+> (From left to right: Batman,  Wonder Woman, Superman.)
 
 ## :page_with_curl: Game Description
 The game has a grow and regress feature; if a plant/animal touches an undesired object, they will regress, and if it were to encounter their desired item, it would grow. Ideally, the animals/plants are developing through different stages of life. For instance, a bird would start in an egg, hatch into a baby bird, then develop into an adult bird.
