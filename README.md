@@ -55,39 +55,38 @@ You can select from a range of audiences or a single auidience. Examples:
 * Dr. Ferga Licious
 
 ## :rocket: Team Photo
+<!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img src = "media/team photo/Team Photo.JPG" width="" height="300">
 
 > (From left to right: Batman,  Wonder Woman, Superman.)
+<!-- replace with full names of your team members -->
 
-## :page_with_curl: Game Description
-The game has a grow and regress feature; if a plant/animal touches an undesired object, they will regress, and if it were to encounter their desired item, it would grow. Ideally, the animals/plants are developing through different stages of life. For instance, a bird would start in an egg, hatch into a baby bird, then develop into an adult bird.
-
-One of the main elements that make this game challenging is that the path to winning is not a straight line. Everyone will have an individual experience depending on their skill set and how fast they catch onto the game. While it might take one person a couple of minutes to win, it may take somebody else longer. This adds a resonance of frustration and eagerness to develop your skills, change your approach and ultimately win the game.
+## :page_with_curl: Project Description
+A more thorough description of your project. Not necessarily a full walkthrough, but describe the sections of your project and the gist of what participants will be doing when interacting with it.
 
 ## :memo: Publications
-
-
-
-
-[CREATE Symposium Poster](https://github.com/TAP-GGC/planimals/blob/main/Documents/Publications/Create%20workshop%20poster.pdf)
+<!-- team members, then professors/advisors. "Name of Publication", event, date and year, Georgia Gwinnett College -->
+1. Team Member, Team Member, Team Member, John Doe, Fergie Licious. "A Real Fake Workshop", Fake event, April 1, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
-
+<!-- Replace these with the outreach your team has done. -->
 1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
+<!-- replace with a project done in the tap program that is related in some way to your own. Can be a sister project done during your TAP semester or a TAP project done in the past. -->
 If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
 ## :computer: Technology
-
+<!-- Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder -->
 <p align="center">
   <img alt="Scratch Logo" src = "Media/Technology/scratch logo.png" width="200" height="200"/>
 </p>
+<!-- remember to replace the website too! -->
 
 * [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike working with a text-based programming language like Java or C whom you must physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax.
+* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
+* Explain why your team chose this technology for this workshop.
 
 <p align="center">
 <img src = "Media/Technology/block-based language.png" width ="400" height="200">
