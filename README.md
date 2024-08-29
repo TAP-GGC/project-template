@@ -37,10 +37,10 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
-[Commercial Video](https://github.com/user-attachments/assets/b1126403-8272-46df-abeb-81e0fcd8bca6)
 
+[Commercial Video](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/94b037a6-8912-44da-8a8c-84c0b8a0afb8)
 
-
+<!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
 ## :pencil2: Team
 
@@ -62,10 +62,10 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- replace with full names of your team members -->
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not necessarily a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it.
+A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
 
 ## :memo: Publications
-<!-- team members, then professors/advisors. "Name of Publication", event, date and year, Georgia Gwinnett College -->
+<!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
 1. Team Member, Team Member, Team Member, John Doe, Fergie Licious. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
@@ -92,14 +92,16 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 </p>
 
 ## Project Setup/Installation 
-<!-- this section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation --> 
+<!-- this section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation 
+
+Your repo doesn't have to have every section here. This is just being used as an example for you to get an idea of what your own repo should look like --> 
 
 ### Opening a blank Scratch page 
 [Click here to view instructions](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
 
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
-
+<!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## CS First Installation Walkthrough
 [Click here to view instructions](/Documents/tutorial/CS%20FIRST/CS%20First%20Walkthrough.md)
 
