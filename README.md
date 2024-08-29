@@ -62,11 +62,11 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- replace with full names of your team members -->
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not necessarily a full walkthrough, but describe the sections of your project and the gist of what participants will be doing when interacting with it.
+A more thorough description of your project. Not necessarily a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it.
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, date and year, Georgia Gwinnett College -->
-1. Team Member, Team Member, Team Member, John Doe, Fergie Licious. "A Real Fake Workshop", Fake event, April 1, 2024, Georgia Gwinnett College.  
+1. Team Member, Team Member, Team Member, John Doe, Fergie Licious. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
 <!-- Replace these with the outreach your team has done. -->
@@ -74,47 +74,52 @@ A more thorough description of your project. Not necessarily a full walkthrough,
 2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
-<!-- replace with a project done in the tap program that is related in some way to your own. Can be a sister project done during your TAP semester or a TAP project done in the past. -->
+<!-- replace with a project done in the TAP program that is related in some way to your own. Can be a sister project done during your TAP semester or a TAP project done in the past. -->
 If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
 ## :computer: Technology
 <!-- Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder -->
 <p align="center">
-  <img alt="Scratch Logo" src = "Media/Technology/scratch logo.png" width="200" height="200"/>
+  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
 </p>
-<!-- remember to replace the website too! -->
 
 * [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
 * Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
 * Explain why your team chose this technology for this workshop.
 
 <p align="center">
-<img src = "Media/Technology/block-based language.png" width ="400" height="200">
+<img src = "media/technology/block-based language.png" width ="400" height="200">
 </p>
 
+## Project Setup/Installation 
+<!-- this section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation --> 
 
-## :floppy_disk: Project Setup/Installation 
+### Opening a blank Scratch page 
+[Click here to view instructions](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
 
-### Accessing the Game through the Scratch Website
+[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
-You don't need a Scratch account to follow along with the lesson or to play the game. 
 
-Go to:
-https://scratch.mit.edu/projects/511937523/
+## CS First Installation Walkthrough
+[Click here to view instructions](/Documents/tutorial/CS%20FIRST/CS%20First%20Walkthrough.md)
 
-### Accessing the Game through CS First
+### Getting to the game 
+[Click here to view instructions](/Documents/tutorial/Getting%20to%20the%20Game.md)
 
-[Click here to view how to access game through CS First](/Documents/CS%20First%20Walkthrough/CS%20First%20Walkthrough.md)
-
-<details>
-<summary><h3><b><u>Demo Video</u></b></h3></summary>
-
-[Demo Video](https://github.com/user-attachments/assets/c1605fe8-f7e2-4b9e-b336-8fb364e39cec)
-
-</details>
-
+## Short Demo Instructions 
+[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
 
 ## Workshop Instructions 
+[Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
+
+[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
 ## Usage
+<!-- Describe HOW to use your game. --> 
+Example: 
+1. Press the Left arrow key to move to the left.
+2. Press the Right arrow key to move to the right.
+3. Press the Up arrow key to move up.
+4. Press the Down arrow key to move down.
+5. You may also replace the arrow keys with a Makey Makey. 
 
