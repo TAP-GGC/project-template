@@ -1,24 +1,42 @@
+<!-- height or width of logo may be adjusted -->
+<!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
+<!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Planimals Logo" src="https://github.com/TAP-GGC/planimals/blob/main/Media/planimal%20new%20loko-transparent.png?raw=true" height="350" />
-  <h1 align="center">Planimals</h1>
-  <p align="center">A Game that Emphasizes the Importance of Programming Statements</p>
+  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/jvalram-patch-1/media/template%20logos/Transparent%20Version.png" height="350" />
+  <h1 align="center">Project Title</h1>
+  <p align="center">Short Descriptor (Example: A Game that Emphasizes the Importance of Programming Statements)</p>
 </p>
+<!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of this workshop is to make coding entertaining for participants by simplifying concepts that can be applied to several different programming languages. 
+The objective of the workshop is  ...
+<!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants code an unused sprite within a pre-existing game as they learn how to program a resource management system and simple character movement using variables, if-else statements, and while-loops.
+This workshop has participants do ...
 
 ## :bulb: Description
-
-* <b>Difficulty Level:</b> Intermediate
-* <b>Target Audience:</b> 6th grade - College
-* <b>Duration of Workshop:</b> 1 hour 
-* <b>Needed Materials:</b> Computers with keyboards, Access to Scratch.com OR CS First Scratch.
-* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants the importance of programming statements and the fundamentals of programming.
-* <b>Scratch</b> is a block-based programming language developed by the MIT Media Lab as an educational tool for children. Through our classroom workshops and outreach activities, students get to learn how to program character movement and sprite animation in Scratch, using the fundamental programming concepts such as variables, if-else statements, and loops. These experiences will help them develop problem-solving and logical reasoning skills that can be applied to other programming languages as well as other fields outside of computing.
-* [Technology Ambassador Program](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
-
+<!-- 
+Your Options for target audience: 
+  - High School
+  - College
+  - Middle School
+  - K-12
+  - Non-Stem
+  - Undergraduate
+You can select from a range of audiences or a single auidience. Examples: 
+    Middle School - College 
+    High School - College
+    K-12
+  You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
+-->
+* <b>Difficulty Level:</b> Choose your workshop difficulty (Beginner/Intermediate/Advanced)
+* <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
+* <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
+* <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, makey-makey kit, sphero, etc.)
+* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants ...
+* <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
+* [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
+<!-- Commercial Video stored in the Media folder will be linked here -->
 [Commercial Video](https://github.com/user-attachments/assets/b1126403-8272-46df-abeb-81e0fcd8bca6)
 
 
@@ -26,15 +44,20 @@ This workshop has participants code an unused sprite within a pre-existing game 
 
 ## :pencil2: Team
 
-* Joshua “Mart” Miller
-* Sarah Pak
-* Ruth Whitehouse
-* Ahkeelah Lindo
+* Team Member 1
+* Team Member 2
+* Team Member 3
+* Team Member 4
 
 ## :mortar_board: Advisors
+<!-- name of the two professors overseeing your TAP class -->
+* Dr. John Doe
+* Dr. Ferga Licious
 
-* Dr. Anca Doloc Mihu
-* Dr. Cindy Robertson
+## :rocket: Team Photo
+<img src = "Media/Team Photo/STaRS Symposium.png" width="400" height="200">
+
+> (From left to right: Anh Tang, Julissa Valdez-Ramos, Jean Makita Mbama.)
 
 ## :page_with_curl: Game Description
 The game has a grow and regress feature; if a plant/animal touches an undesired object, they will regress, and if it were to encounter their desired item, it would grow. Ideally, the animals/plants are developing through different stages of life. For instance, a bird would start in an egg, hatch into a baby bird, then develop into an adult bird.
