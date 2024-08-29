@@ -1,5 +1,5 @@
-You might be wondering what all these fakefile.md files are.
+If you used an asset pack or any other kind of external resource, upload them here. 
 
-To create a folder on github, it cannot be empty so most people will create a fake file and delete it after. In your own repository, You'll probably want to delete these files.
+If you use an asset pack or something like it, make sure youve read the copyright and if possible, create a .md file describing how you downloaded it, the licence (If your asset pack/resource is Creative Commons (CC), you'll want to specify the licence) and a brief description. 
 
-In this template, they'll be used to provide descriptions of what kind of things to put in every folder. But again, you might want to delete these empty files in your own repo.
+Most projects won't need to do this, but if yours does you can check out how [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles/blob/main/Resources/Asset%20Package.md) did theirs
