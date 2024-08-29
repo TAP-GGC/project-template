@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/jvalram-patch-1/media/template%20logos/Transparent%20Version.png" height="350" />
+  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logo/Transparent%20Version.png" height="350" />
   <h1 align="center">Project Title</h1>
   <p align="center">Short Descriptor (Example: A Game that Emphasizes the Importance of Programming Statements)</p>
 </p>
