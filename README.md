@@ -3,7 +3,7 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
   <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logo/Transparent%20Version.png" width="" height="350" />
-  <h1 align="center">Project Title</h1>
+  <h1 align="center">Project Template Title</h1>
   <p align="center">Short Descriptor (Example: A Game that Emphasizes the Importance of Programming Statements)</p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
