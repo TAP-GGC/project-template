@@ -1,1 +1,1 @@
-PDF files or any kind of posters your team creates would be uploaded here. 
+Any kind of poster or publication your team creates would be uploaded under the publications folders. 
