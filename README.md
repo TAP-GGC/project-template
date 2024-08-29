@@ -52,7 +52,7 @@ You can select from a range of audiences or a single auidience. Examples:
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
 * Dr. John Doe
-* Dr. Ferga Licious
+* Dr. Jane Doe
 
 ## :rocket: Team Photo
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
