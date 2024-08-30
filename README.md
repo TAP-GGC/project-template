@@ -56,7 +56,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :rocket: Team Photo
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img src = "media/team photo/Team Photo.JPG" width="" height="300">
+<img alt="art featuring batman, wonder woman, and superman" src = "media/team photo/Team Photo.JPG" width="" height="300">
 
 > (From left to right: Batman,  Wonder Woman, Superman.)
 <!-- replace with full names of your team members -->
@@ -69,16 +69,21 @@ A more thorough description of your project. Not a full walkthrough, but describ
 1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
-<!-- Replace these with the outreach your team has done. -->
+<i>List the outreach events your team has participated in. </i>
+
+Example:
+
 1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
-<!-- replace with a project done in the TAP program that is related in some way to your own. Can be a sister project done during your TAP semester or a TAP project done in the past. -->
+<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
+
 If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
 ## :computer: Technology
-<!-- Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder -->
+<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
+<!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
 </p>
@@ -94,7 +99,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 ## Project Setup/Installation 
 <!-- this section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation 
 
-Your repo doesn't have to have every section here. This is just being used as an example for you to get an idea of what your own repo should look like --> 
+Your repo doesn't have to have every section used below. This is just being an example for you so you can get an idea of what your own repo should look like --> 
 
 ### Opening a blank Scratch page 
 [Click here to view instructions](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
@@ -117,7 +122,7 @@ Your repo doesn't have to have every section here. This is just being used as an
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
 ## Usage
-<!-- Describe HOW to use your game. --> 
+<i> Describe HOW to use your game. </i> 
 Example: 
 1. Press the Left arrow key to move to the left.
 2. Press the Right arrow key to move to the right.
