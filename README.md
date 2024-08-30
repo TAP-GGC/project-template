@@ -97,9 +97,9 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 </p>
 
 ## Project Setup/Installation 
-<!-- this section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation 
+<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
 
-Your repo doesn't have to have every section used below. This is just being an example for you so you can get an idea of what your own repo should look like --> 
+Your repo doesn't have to have every section used below. This is just an example for you so you can get an idea of what your own repo should look like</i>
 
 ### Opening a blank Scratch page 
 [Click here to view instructions](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
