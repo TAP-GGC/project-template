@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logo/Transparent%20Version.png" width="" height="350" />
+  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logos/Transparent%20Version.png" width="" height="350" />
   <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
   <p align="center">A project for ... by team ... </p>
 </p>
@@ -45,7 +45,7 @@ You can select from a range of audiences or a single auidience. Examples:
 ## :pencil2: Team: Team Name
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img alt="art featuring batman, wonder woman, and superman" src = "media/team photo/Team Photo.JPG" width="" height="300">
+<img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
 
 > (From left to right: Batman,  Wonder Woman, Superman.)
 <!-- replace with full names of your team members -->
