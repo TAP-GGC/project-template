@@ -1,4 +1,4 @@
-<!-- height or width of logo may be adjusted -->
+	<!-- height or width of logo may be adjusted -->
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
@@ -14,7 +14,7 @@ The objective of the workshop is  ...
 
 This workshop has participants do ...
 
-## :bulb: Description
+## :bulb: Project Information
 <!-- 
 Your Options for target audience: 
   - High School
@@ -42,7 +42,14 @@ You can select from a range of audiences or a single auidience. Examples:
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
-## :pencil2: Team
+## :pencil2: Team: Team Name
+
+Team Photo
+<!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
+<img alt="art featuring batman, wonder woman, and superman" src = "media/team photo/Team Photo.JPG" width="" height="300">
+
+> (From left to right: Batman,  Wonder Woman, Superman.)
+<!-- replace with full names of your team members -->
 
 * Team Member 1
 * Team Member 2
@@ -54,12 +61,6 @@ You can select from a range of audiences or a single auidience. Examples:
 * Dr. John Doe
 * Dr. Jane Doe
 
-## :rocket: Team Photo
-<!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img alt="art featuring batman, wonder woman, and superman" src = "media/team photo/Team Photo.JPG" width="" height="300">
-
-> (From left to right: Batman,  Wonder Woman, Superman.)
-<!-- replace with full names of your team members -->
 
 ## :page_with_curl: Project Description
 A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
@@ -113,14 +114,6 @@ Your repo doesn't have to have every section used below. This is just an example
 ### Getting to the game 
 [Click here to view instructions](/Documents/tutorial/Getting%20to%20the%20Game.md)
 
-## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
-
-## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
-
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
-
 ## Usage
 <i> Describe HOW to use your game. </i> 
 Example: 
@@ -129,4 +122,13 @@ Example:
 3. Press the Up arrow key to move up.
 4. Press the Down arrow key to move down.
 5. You may also replace the arrow keys with a Makey Makey. 
+
+## Short Demo Instructions 
+[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
+
+## Workshop Instructions 
+[Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
+
+[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
+
 
