@@ -126,7 +126,7 @@ Example:
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/documents/tutorial-materials/Scratch%20Workshop%20Walkthrough.pdf)
+[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
