@@ -102,16 +102,16 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
 
 ### Opening a blank Scratch page 
-[Click here to view instructions](/documents/tutorial%20materials/Opening%20a%20blank%20Scratch%20page.md)
+[Click here to view instructions](/documents/tutorial_materials/Opening%20a%20blank%20Scratch%20page.md)
 
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%2Walkthrough.md)
+[Click here to view instructions](/documents/tutorial_materials/CS%20FIRST/CS%20First%2Walkthrough.md)
 
 ### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
+[Click here to view instructions](/documents/tutorial-materials/Getting%20to%20the%20Game.md)
 
 ## Usage
 <i> Describe HOW to use your game. </i> 
@@ -126,7 +126,7 @@ Example:
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
+[Click here to view workshop walkthrough pdf file](/documents/tutorial-materials/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
