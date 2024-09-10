@@ -6,7 +6,7 @@
 
 ### Step 1. Download the [.sb3](https://github.com/TAP-GGC/NinjaTurtles/blob/main/Code/Complete%20Code%20for%20the%20Game.sb3) file
 
-<!--- INSERT YOUR OWN .sb3 FILE IN THE PARENTHESIS!! THIS IS 1/3 LINKS YOU MUST REPLACE--->
+<!--- INSERT YOUR OWN .sb3 FILE IN THE PARENTHESIS ABOVE !! THIS IS 1/3 LINKS YOU MUST REPLACE--->
 
 The file can be found in the code folder of this repository or accessed directly through the highlighted text above. 
 
@@ -17,7 +17,7 @@ Click on 'view raw' to download (make sure to download a copy to a flash drive i
 Open CS First, click the plus sign, and select New Project.
   
 <p align="center">
-<img src = "/documents/tutorial/CS FIRST/CS First Media/cs first new project.png" width="250">
+<img src = "/documents/tutorial materials/CS FIRST/CS First Media/cs first new project.png" width="250">
 </p>
 
 - Click File
@@ -26,7 +26,7 @@ Open CS First, click the plus sign, and select New Project.
 
 
 <p align="center">
-<img src = "/documents/tutorial/CS FIRST/CS First Media/csfirst file.png" width="700">
+<img src = "/documents/tutorial materials/CS FIRST/CS First Media/csfirst file.png" width="700">
 </p>
 
 
@@ -34,7 +34,7 @@ Open CS First, click the plus sign, and select New Project.
 
 
 <p align="center">
-<img src = "/documents/tutorial/CS FIRST/CS First Media/csfirst load from computer.png" width="250">
+<img src = "/documents/tutorial materials/CS FIRST/CS First Media/csfirst load from computer.png" width="250">
 </p>
 
 >TEACHERS: Feel free to work through the workshop on your own to familiarize yourself with the lesson!

@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logo/Transparent%20Version.png" width="" height="350" />
+  <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
   <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
   <p align="center">A project for ... by team ... </p>
 </p>
@@ -102,16 +102,16 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
 
 ### Opening a blank Scratch page 
-[Click here to view instructions](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
+[Click here to view instructions](/documents/tutorial%20materials/Opening%20a%20blank%20Scratch%20page.md)
 
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## CS First Installation Walkthrough
-[Click here to view instructions](/Documents/tutorial/CS%20FIRST/CS%20First%20Walkthrough.md)
+[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
 
 ### Getting to the game 
-[Click here to view instructions](/Documents/tutorial/Getting%20to%20the%20Game.md)
+[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
 
 ## Usage
 <i> Describe HOW to use your game. </i> 
@@ -126,7 +126,7 @@ Example:
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
+[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
